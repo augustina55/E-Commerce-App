@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shopie">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Search"></activity>
+        <activity android:name=".returnSuccess" />
+        <activity android:name=".EditReviews" />
+        <activity android:name=".CancelOrder" />
+        <activity android:name=".ReturnItem" />
+        <activity android:name=".OrderDetailedView" />
+        <activity android:name=".AckPage" />
+        <activity android:name=".OrdersPage" />
+        <activity android:name=".paymentPage" />
+        <activity android:name=".UserAddress" />
+        <activity android:name=".chooseAddress" />
+        <activity android:name=".Cart" />
+        <activity android:name=".whislist" />
+        <activity android:name=".kids" />
+        <activity android:name=".itemsPage" />
+        <activity android:name=".category_view" />
+        <activity android:name=".category" />
+        <activity android:name=".product" />
+        <activity android:name=".AddAddress" />
+        <activity android:name=".MyAccount" />
+        <activity android:name=".UserProfile" />
+        <activity android:name=".ForgotPassword" />
+        <activity android:name=".PhoneAuthentication" />
+        <activity android:name=".Register" />
+        <activity android:name=".Home" />
+        <activity android:name=".Login" />
+        <activity android:name=".Welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

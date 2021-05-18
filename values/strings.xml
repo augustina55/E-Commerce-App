@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Shopie</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="email">E-mail address</string>
+    <string name="forgotpass">Forgot Password?</string>
+    <string name="haveAcc">Don\'t have an Account?</string>
+    <string name="text1">We need your registered email address to send you password reset link</string>
+    <string name="resetpass">Reset Password</string>
+    <string name="register">Register now?</string>
+    <string name="nav_cat">All Categories</string>
+    <string name="nav_offer">Offer Zone</string>
+    <string name="nav_sell">Sell on Shopie</string>
+    <string name="nav_order">My Orders</string>
+    <string name="nav_coupons">My Coupons</string>
+    <string name="nav_cart">My cart</string>
+    <string name="nav_wishlist">My Wishlist</string>
+    <string name="nav_acc">My Account</string>
+    <string name="nav_feedback">Feedback</string>
+    <string name="nav_help">Help Center</string>
+    <string name="Rs">\u20B9</string>
+    <string name="Rss">-\u20B9</string>
+    <string name="cat">Categories to bag</string>
+
+</resources>

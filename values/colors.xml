@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#11CFBF</color>
+    <color name="themeColor">#11CFC5</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="register_bk_color">#11CFC5</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">#11CFC5</color>
+    <color name="lightGray">#F2F2F2</color>
+    <color name="colorTransparent">#00E3D6D6</color>
+    <color name="blue">#008CDD</color>
+    <color name="red">#F44336</color>
+</resources>
