@@ -6,3 +6,5 @@ Find all files and place properly in your projects
 
 
 Download project and connect your Firebase account with Firebase
+
+<img src="Screenshoots/ss1.png"/>
